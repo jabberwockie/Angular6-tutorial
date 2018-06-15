@@ -1,6 +1,8 @@
 # UdemyTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project purpose is to learn Angular 6 following Maximilian Schwarzmüller's Udemy tutorial. 
+
 
 ## Development server
 
